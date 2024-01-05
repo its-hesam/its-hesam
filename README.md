@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **HAGH BOT & HAGHGOO**<br>- 🤝 I’m looking for help with **Create Discord Bots** <br>- 👨‍💻 All of my projects are available at [Here](https://github.com/hesawmgh1098?tab=repositories)<br>- 📚 I'm currently learning Typescript<br>- 💬 Ask me about **Your problems** <br>- 📫 How to reach me **Direct Me on Discord Or Telegram**<br>- ⚡ Fun fact **Im Boy**</p>
+<p align="left">- 🔭 I’m currently working on HAGH BOT & HAGHGOO<br>- 🤝 I’m looking for help with <strong>Create Discord Bots</strong> <br>- 👨‍💻 All of my projects are available at <a href="https://github.com/hesawmgh1098?tab=repositories">Here</a> <br>- 📚 I'm currently learning Typescript<br>- 💬 Ask me about <strong>Your problems</strong> <br>- 📫 How to reach me <strong>Direct Me on Discord Or Telegram</strong><br>- ⚡ Fun fact <strong>Im Boy</strong></p>
 
 ###
 
